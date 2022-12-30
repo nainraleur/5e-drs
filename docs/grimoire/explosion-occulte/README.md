@@ -1,5 +1,5 @@
 ---
-title: "Explosion occulte"
+title: "Décharge occulte"
 description: "Éclair d'énergie qui inflige 1d10 dégâts de force."
 school: "Évocation"
 level: 0
